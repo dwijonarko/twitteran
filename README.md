@@ -1,4 +1,1 @@
-twitteran
-=========
-
-contoh penggunaan library tmhOAuth 
+twitteran using tmhOAuth
